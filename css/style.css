@@ -1,0 +1,135 @@
+.overlay {
+	width:100%;
+	background: rgba(0,0,0,0.3);
+}
+.bg {
+	background: url(../img/bg.png) ;
+	background-size: cover;
+
+}
+img {
+    width: 100%;
+    margin-top: 60px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+} 
+ol.breadcrumb {
+    background: transparent;
+    margin-top: 65px;
+    margin-left: 210px;
+}
+a {
+    color: #f6f9fa;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+li.breadcrumb-item {
+    margin-right: 60px;
+    font-size: 23px;
+}
+
+
+/*card css*/
+
+.card {
+    background: transparent;
+    border-style: none;
+    width: 50%;
+}
+h5 {
+    font-weight: 400;
+    font-size: 45px;
+    background: #2e2f2c9e;
+    color: white;
+    padding: 12px 0px 10px 50px;
+}
+
+p.card-text {
+    font-size: 14px;
+    color: white;
+}
+
+span {
+    color: white;
+    font-size: 25px;
+}
+
+a.btn {
+    border: 2px solid white;
+    border-radius: 1px;
+    color: white;
+    margin-top: 45px;
+    font-size: 12px;
+    padding: 10px 50px;
+    margin-bottom: 90px;
+}
+
+/*welcome css*/
+
+.welcome {
+	background: #f6f6f6;
+}
+
+.span-2 {
+	color: black;
+    font-size: 25px;
+}
+ 
+.col-md-5 {
+    position: relative;
+    padding-top: 125px;
+}
+ 
+
+.col-md-7 {
+    position: relative;
+     
+}
+img.img-fluid {
+    display: block;
+    position: absolute;
+    right: 10%;
+    top: 20%;
+}
+p {
+    margin-top: 50px;
+    margin-bottom: 2rem;
+}
+
+
+/*feature css*/
+
+.feature {
+    background: #28282e;
+    color: white;
+}
+.feature h2 {
+     
+    margin-bottom: 10px;
+}
+
+p.feature-para {
+    margin-top: 95px;
+    text-align: justify;
+}
+
+.feature img {
+    position: relative;
+    top: 38%;
+}
+
+
+/*footer css*/
+
+.footer {
+    background: #ef4035;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+h6 {
+    font-size: 0.9rem;
+}
+
